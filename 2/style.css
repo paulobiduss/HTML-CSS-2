@@ -1,0 +1,96 @@
+body {  
+      background-color: #CCCCCC;
+}
+
+.titulo-principal {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+}
+
+#banner {
+
+    width: 100%;
+    border-radius: 10px;
+ }
+
+.principal {
+    text-align: center;
+    background: #CCCCCC;
+    padding: 10px;
+    border: 2px solid black;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.titulo-centralizado {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center ;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.texto1 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+.barber1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.missao-todos {
+    font-size: 20px ;
+    font-style: italic;
+    margin: 20px ;
+    font-family: 'Courier New', Courier, monospace;
+}
+.missao{
+    font-weight: bold;
+    color: red
+}
+.oferecemos {
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.beneficios {
+
+    padding: 20PX;
+}
+.beneficios-div {
+    background-color: #CCCCCC;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+}
+.lista-beneficios {
+    display: inline;
+    padding: auto;
+    width: auto;
+    border: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.itens {
+    padding-left: 20px;
+    font-style: italic;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+    display:inline;
+    border: 10px ;
+    
+    
+}
+.image-div{
+
+}
+.imagem1 {
+    width: 100%;
+    border-radius: 10px;
+}
